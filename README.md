@@ -8,3 +8,5 @@ Complete architecture knowledge does not imply required, emitted, or tested supp
 
 Tracking: issues #3–#4 and #9 in this repository.
 
+
+Concrete rentable processor notes live in [`MICROARCHITECTURE.md`](MICROARCHITECTURE.md), currently prioritizing Graviton5/Neoverse V3 and Graviton4/Neoverse V2. Keep these implementation facts separate from the A64 ISA inventory.
