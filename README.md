@@ -8,3 +8,5 @@ Complete architecture knowledge does not imply required, emitted, or tested supp
 
 Tracking: issues #5–#6 and #9 in this repository.
 
+
+Microarchitecture and rentability notes live in [`MICROARCHITECTURE.md`](MICROARCHITECTURE.md). Keep processor-generation facts separate from the ISA inventory.
