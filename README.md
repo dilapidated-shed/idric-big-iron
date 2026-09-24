@@ -8,3 +8,5 @@ Complete architecture knowledge does not imply required, emitted, or tested supp
 
 Tracking: issues #7–#9 in this repository.
 
+
+Concrete IBM z17 / Telum II processor notes live in [`MICROARCHITECTURE.md`](MICROARCHITECTURE.md). Keep those implementation facts separate from the z/Architecture ISA inventory.
